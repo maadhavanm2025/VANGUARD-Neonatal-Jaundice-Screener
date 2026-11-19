@@ -428,17 +428,6 @@ The project demonstrates how low-cost embedded electronics and optical sensing c
 
 ---
 
-# Team
-
-Developed as a collaborative hackathon project.
-
-Team members can be added here:
-
-```text
-- Name – Hardware / Embedded Systems
-- Name – Software / Calibration
-- Name – Research / Documentation
-- Name – Design / Prototype
 
 This repository documents an experimental prototype.
 
